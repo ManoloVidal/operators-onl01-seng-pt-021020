@@ -1,4 +1,4 @@
-req 'pry'
+require 'pry'
 def unsafe?(speed)
   binding.pry
 
